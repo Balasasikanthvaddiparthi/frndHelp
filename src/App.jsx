@@ -100,22 +100,17 @@ function App() {
             </h1>
 
             <p className="text-gray-700 text-lg leading-relaxed">
-              Sometimes I catch myself smiling for no clear reason,
-              and later I realize it’s because of a thought of you.
-              I thought you should know that.
+             You know being in this life style there are many ways that are fully filled with western style to express 
+              
+
+              my thoughts, view and feeling but i always choose an old school style 😅if may be I’m near you I’d definitely write you a letter and post it to you but this time i am using your Tech method. 
+
               <br /><br />
 
-              You’re gorgeous… but honestly, that’s the least interesting thing about you.
-              Of course you are beautiful and anyone with eyes can see that.
-              But what I see in you takes attention… it takes knowing you.
-              And that’s the part that makes you unforgettable.
+              Sometimes I catch myself smiling for no clear reason, and later I realize it’s because of a thought of you.  🙂
               <br /><br />
 
-              I found your beauty lies in the change of tone when you talk about something you really care about.
-              Maybe you don’t realize it… but I do. 🙂
-              <br /><br />
-
-              I like everything about you — even the things you hate to admit.
+              I thought you should know that. I dreamt of you more often , with messy hair, laughs those flashes that i never want no came out or If dreaming is the only way to be with you then I'll never open my eyes.
               <br /><br />
 
               Maybe you are a forest of secrets.
@@ -140,9 +135,9 @@ function App() {
 
               <br />
 
-              And if you did…
+             
               <span className="block text-center text-2xl font-bold text-pink-600 mt-6">
-                I love you for a lifetime 💖
+                and try to miss me more🙂
               </span>
             </p>
 
